@@ -54,9 +54,9 @@ We will be doing retrospectives every Friday at 9 AM. **Spend some time preparin
   - Career goals and development.
 
 ## Planning Sessions
-- When: At the beginning of each sprint.
-- Purpose: Define the work to be completed in the upcoming sprint and set priorities.
-- Format: Team reviews the backlog, selects items to work on, and assigns tasks. Key activities include:
+- **When**: At the beginning of each sprint.
+- **Purpose**: Define the work to be completed in the upcoming sprint and set priorities.
+- **Format**: Team reviews the backlog, selects items to work on, and assigns tasks. Key activities include:
 
   - Reviewing backlog items.
   - Estimating effort and complexity.
@@ -72,6 +72,13 @@ We will be doing retrospectives every Friday at 9 AM. **Spend some time preparin
 - To assign new tasks to team members.
   - Not correct. Task assignment is usually done during planning sessions.
 {: .choose_best #standup_purpose title="Purpose of Daily Stand-ups" points="1" answer="2"}
+
+- It's a good idea to prepare for daily stand ups by writing down your three key points.
+- True
+  - Correct! What did you work on yesterday? What are you working on today? Is anything blocking you?
+- False
+  - Not correct. Can you think of what would be good to prepare?
+{: .choose_best #standup_prep title="Prepare for Daily Stand-ups" points="1" answer="1"}
 
 - What should you share during a retrospective?
 - What you had for lunch.
