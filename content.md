@@ -43,6 +43,11 @@ What didn't go well?
 What can we improve for the next sprint?
 Shoutouts
 
+<aside>
+
+A "sprint" is a short list of accomplishable tasks that are planned for a given period, usually one week.
+</aside>
+
 **Spend some time preparing for retrospectives by writing down your thoughts on what went well (or poorly) and what we can improve on for next week.**
 
 ### One-on-Ones
@@ -99,4 +104,4 @@ Shoutouts
 ## Follow Up Assignment
 Remember to prepare for and participate in daily stand-ups. Ensure you address the three key questions: What did you work on yesterday? What are you working on today? Is anything blocking you?
 
-Please write down and submit todays stand up.
+Please write down and submit today's stand up.
