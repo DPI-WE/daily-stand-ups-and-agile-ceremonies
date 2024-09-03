@@ -104,4 +104,4 @@ We will be doing retrospectives every Friday at 9 AM. **Spend some time preparin
 ## Follow Up Assignment
 Remember to prepare for and participate in daily stand-ups. Ensure you address the three key questions: What did you work on yesterday? What are you working on today? Is anything blocking you?
 
-Please write down and submit todays stand up.
+Please write down and submit today's stand up.
