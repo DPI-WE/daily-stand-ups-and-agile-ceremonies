@@ -43,6 +43,11 @@ What didn't go well?
 What can we improve for the next sprint?
 Shoutouts
 
+<aside>
+
+A "sprint" is a short list of accomplishable tasks that are planned for a given period, usually one week.
+</aside>
+
 We will be doing retrospectives every Friday at 9 AM. **Spend some time preparing for retrospectives by writing down your thoughts on what went well (or poorly) and what we can improve on for next week.**
 
 ### One-on-Ones
