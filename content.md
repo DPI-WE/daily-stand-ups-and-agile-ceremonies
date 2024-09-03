@@ -43,7 +43,7 @@ What didn't go well?
 What can we improve for the next sprint?
 Shoutouts
 
-We will be doing retrospectives every Friday at 9 AM. **Spend some time preparing for retrospectives by writing down your thoughts on what went well (or poorly) and what we can improve on for next week.**
+**Spend some time preparing for retrospectives by writing down your thoughts on what went well (or poorly) and what we can improve on for next week.**
 
 ### One-on-Ones
 - **When**: Scheduled regularly, often quarterly or monthly.
