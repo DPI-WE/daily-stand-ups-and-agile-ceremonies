@@ -20,7 +20,7 @@ During the stand-up, each team member answers three key questions:
 - What are you working on today?
 - Is anything blocking you?
 
-It's okay to "pass" if what you did is completely irrelevant to the team (e.g., you took your dog to the vet). The key part is identifying blockers to find ways to get unblocked, either by seeking expertise or informing others that they are causing a block.
+The key part is identifying blockers to find ways to get unblocked, either by seeking expertise or informing others that they are causing a block.
 
 ## Overcoming Discomfort
 Sharing your work status can feel intimidating, especially if you are behind or ahead. It's natural to feel self-conscious, but it's important to overcome this reflex. On a healthy team, transparency is key, and there's no judgment, only support.
